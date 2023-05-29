@@ -14,8 +14,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sangamer01&show_icons=true&locale=en&layout=compact" alt="sangamer01" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sangamer01&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="sangamer01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sangamer01&show_icons=true&locale=en" alt="sangamer01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sangamer01&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="sangamer01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sangamer01&" alt="sangamer01" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sangamer01" alt="sangamer01" /></p>
