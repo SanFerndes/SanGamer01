@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SanGamer01</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sangamer01&label=Profile%20views&color=0e75b6&style=flat" alt="sangamer01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SanFerndes&label=Profile%20views&color=0e75b6&style=flat" alt="SanFerndes" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sangamer01" alt="sancio" /></a> </p>
 
@@ -14,8 +14,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sancio&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="sancio" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SanFerndes&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="sancio" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sancio&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="sancio" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SanFerndes&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="sSanFerndes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sancio" alt="sancio" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SanFerndes" alt="SanFerndes" /></p>
